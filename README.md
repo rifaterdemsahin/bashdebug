@@ -1,5 +1,3 @@
-# Bash Debugging Examples
-
 Debugging bash scripts can be done using various methods. Below are some examples to help you get started.
 
 ## Example 1: Using `set -x` for Debugging
