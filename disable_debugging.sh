@@ -5,3 +5,4 @@ var="Hello, World! 🌍"
 echo $var
 set +x  # Disable debugging
 echo "🏁 Script ended"
+
